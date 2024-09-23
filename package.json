@@ -1,0 +1,19 @@
+{
+  "name": "easy-try",
+  "version": "1.0.0",
+  "description": "A simple utility function for easier error handling in asynchronous JavaScript operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsal-parmar/easy-try.git"
+  },
+  "author": "Vatsal Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatsal-parmar/easy-try/issues"
+  },
+  "homepage": "https://github.com/vatsal-parmar/easy-try#readme"
+}
